@@ -1,0 +1,4 @@
+customer_id,customer_name,email,state,updated_at
+000001,Alice Smith,alice@example.com,OH,2026-09-27T14:30:00Z
+000002,Bob Jones,bob@example.com,TX,2026-09-27T15:00:00Z
+000003,Carol Lee,carol@example.com,CA,2026-09-27T16:15:00Z

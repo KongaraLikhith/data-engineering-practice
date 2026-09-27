@@ -1,0 +1,10 @@
+{
+  "validation_status": "PASS",
+  "missing_columns": [],
+  "extra_columns": [],
+  "duplicate_headers": [],
+  "datatype_mismatches": [],
+  "parse_failures": [],
+  "critical_errors": [],
+  "can_proceed_downstream": true
+}
